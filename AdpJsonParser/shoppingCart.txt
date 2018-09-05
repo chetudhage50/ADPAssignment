@@ -1,0 +1,32 @@
+{
+	"shoppingCart":[ 
+				{
+					"itemID": "001",
+					"itemCategoryID":"003",
+					"itemName":"Muesli",
+					"unitPrice":"200",
+					"quantity": "5"
+				},
+				{
+					"itemID": "002",
+					"itemCategoryID":"005",
+					"itemName":"Organic Tomatoes",
+					"unitPrice":"1556",
+					"quantity": "7"
+				},
+				{
+					"itemID": "003",
+					"itemCategoryID":"002",
+					"itemName":"Mens Tshirt Arrow 3463",
+					"unitPrice":"20",
+					"quantity": "2"
+				},
+				{
+					"itemID": "004",
+					"itemCategoryID":"001",
+					"itemName":"Wipro CFL",
+					"unitPrice":"120",
+					"quantity": "10"
+				}
+		]		
+}

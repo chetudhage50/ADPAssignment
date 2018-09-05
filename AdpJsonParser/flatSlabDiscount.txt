@@ -1,0 +1,19 @@
+ {
+		"slabs": [
+			{
+				"rangeMin": "0",
+				"rangeMax": "3000",
+				"discPerc": "2"
+			},
+			{
+				"rangeMin": "3001",
+				"rangeMax": "7000",
+				"discPerc": "4"
+			},
+			{
+				"rangeMin": "7001",
+				"rangeMax": "9000",
+				"discPerc": "5"
+			}
+		]
+}
